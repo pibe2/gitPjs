@@ -14,6 +14,7 @@ from Text import *
 # TODO: make x_update, use of rel_vx consistent across pixies
 # TODO: check that pixies are using the right collision rects; ie self.get_collision_rect()
 # TODO: ACCELERATION, button b accelerates mario, tweak jump height
+#   implementing animation sequence objects will make it easier
 # TODO: kill all enemies that are touching on block when hit(with powerup?)
 # TODO: bug: can't walk past back blocks in stairs
 # TODO: implement check points through out level to recover from out of bounds deaths
